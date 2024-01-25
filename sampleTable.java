@@ -14,10 +14,6 @@ public class sampleTable {
 
 	public static void main(String[] args){
 
-		//  sahl"vasu
-		
-		String nam = "sahl\"vasu";
-			      //  sahl"vasu
 //Storing input data in an array
 		String arr[] = { "Bob", "20", "male", "George", "42", "male", "sara", "42", "female", "conor", "40", "male",
 				"jennifer", "42", "female" };
